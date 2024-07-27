@@ -1,0 +1,45 @@
+{
+	"id": "foundryvtt-main_project",
+	"name": "foundryvtt-main_project",
+	"title": "Main Project",
+	"description": "pipi s pupu",
+	"version": "0.0.1",
+	"authors": [
+		{
+			"name": "Tvoje mama"
+	
+		}
+	],
+	"minimumCoreVersion": "30",
+	"compatibleCoreVersion": "40",
+	"compatibility": {
+		"minimum": "30",
+		"verified": "40"
+	},
+	"url": "",
+	"bugs": "",
+	"readme": "",
+	"license": "",
+	"manifest": "",
+	"download": "",
+	"esmodules": [
+		"./main_ptoject_script/main.js"
+	],
+	"styles": [
+	],
+	"packs": [],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+		
+	],
+	"socket": true,
+	"manifestPlusVersion": "1.2.0",
+	
+	"flags": {
+		"allowBugReporter": true
+	}
+}
